@@ -1,0 +1,6 @@
+C:\Users\apilati\source\repos\Days_left_for_christmas\Days_left_for_christmas\bin\Debug\Days_left_for_christmas.exe.config
+C:\Users\apilati\source\repos\Days_left_for_christmas\Days_left_for_christmas\bin\Debug\Days_left_for_christmas.exe
+C:\Users\apilati\source\repos\Days_left_for_christmas\Days_left_for_christmas\bin\Debug\Days_left_for_christmas.pdb
+C:\Users\apilati\source\repos\Days_left_for_christmas\Days_left_for_christmas\obj\Debug\Days_left_for_christmas.csprojAssemblyReference.cache
+C:\Users\apilati\source\repos\Days_left_for_christmas\Days_left_for_christmas\obj\Debug\Days_left_for_christmas.exe
+C:\Users\apilati\source\repos\Days_left_for_christmas\Days_left_for_christmas\obj\Debug\Days_left_for_christmas.pdb
